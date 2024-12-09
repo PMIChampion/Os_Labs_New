@@ -1,0 +1,6 @@
+/Users/vladislavburdinskij/Documents/lab_OS/OS_labs/lab-1/build/CMakeFiles/child.dir
+/Users/vladislavburdinskij/Documents/lab_OS/OS_labs/lab-1/build/CMakeFiles/lab-1.dir
+/Users/vladislavburdinskij/Documents/lab_OS/OS_labs/lab-1/build/CMakeFiles/run_tests.dir
+/Users/vladislavburdinskij/Documents/lab_OS/OS_labs/lab-1/build/CMakeFiles/test.dir
+/Users/vladislavburdinskij/Documents/lab_OS/OS_labs/lab-1/build/CMakeFiles/edit_cache.dir
+/Users/vladislavburdinskij/Documents/lab_OS/OS_labs/lab-1/build/CMakeFiles/rebuild_cache.dir
