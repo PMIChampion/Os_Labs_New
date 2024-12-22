@@ -1,7 +1,0 @@
-/Users/vladislavburdinskij/Documents/OS_Labs/OS_labs/lab5-7/build/CMakeFiles/client.dir
-/Users/vladislavburdinskij/Documents/OS_Labs/OS_labs/lab5-7/build/CMakeFiles/worker.dir
-/Users/vladislavburdinskij/Documents/OS_Labs/OS_labs/lab5-7/build/CMakeFiles/tests.dir
-/Users/vladislavburdinskij/Documents/OS_Labs/OS_labs/lab5-7/build/CMakeFiles/clean.dir
-/Users/vladislavburdinskij/Documents/OS_Labs/OS_labs/lab5-7/build/CMakeFiles/test.dir
-/Users/vladislavburdinskij/Documents/OS_Labs/OS_labs/lab5-7/build/CMakeFiles/edit_cache.dir
-/Users/vladislavburdinskij/Documents/OS_Labs/OS_labs/lab5-7/build/CMakeFiles/rebuild_cache.dir
