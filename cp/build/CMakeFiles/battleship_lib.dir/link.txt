@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libbattleship_lib.a CMakeFiles/battleship_lib.dir/Board.cpp.o CMakeFiles/battleship_lib.dir/GameRoom.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libbattleship_lib.a

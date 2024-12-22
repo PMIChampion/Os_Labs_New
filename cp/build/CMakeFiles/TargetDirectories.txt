@@ -1,0 +1,7 @@
+/Users/vladislavburdinskij/Documents/repair_git/OS_labs/cp/build/CMakeFiles/battleship_lib.dir
+/Users/vladislavburdinskij/Documents/repair_git/OS_labs/cp/build/CMakeFiles/server.dir
+/Users/vladislavburdinskij/Documents/repair_git/OS_labs/cp/build/CMakeFiles/client.dir
+/Users/vladislavburdinskij/Documents/repair_git/OS_labs/cp/build/CMakeFiles/tests.dir
+/Users/vladislavburdinskij/Documents/repair_git/OS_labs/cp/build/CMakeFiles/test.dir
+/Users/vladislavburdinskij/Documents/repair_git/OS_labs/cp/build/CMakeFiles/edit_cache.dir
+/Users/vladislavburdinskij/Documents/repair_git/OS_labs/cp/build/CMakeFiles/rebuild_cache.dir
